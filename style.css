@@ -1,0 +1,14 @@
+body{
+    background-color: blueviolet;
+}
+
+form{
+    text-align: center;
+}
+
+@media screen (max-width 450px)
+{
+    form{
+        padding:3.5em 1.5em;
+    }
+}
